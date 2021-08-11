@@ -1,5 +1,13 @@
 ### Olá! 👋
 
+Tudo bem? Me chamo **Carlos Alberto**. Sou formado em Engenharia Mecânica e recentemente comecei meus estudos de **Desenvolvimento de Softwares** na **Cubos Academy**.
+
+📩 ***E-mail:*** carlosalbertoel@outlook.com
+
+🌐 ***LinkedIn:*** https://www.linkedin.com/in/carlos-alberto-estevam-longuinhos-037582105/
+
+
+
 <!--
 **carlosael/carlosael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
