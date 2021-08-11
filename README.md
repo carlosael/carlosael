@@ -1,6 +1,6 @@
-### Olá! 👋
+### Hi there! 👋
 
-Tudo bem? Me chamo **Carlos Alberto**. Sou formado em Engenharia Mecânica e recentemente comecei meus estudos em **Desenvolvimento de Softwares** na **Cubos Academy**.
+My name is **Carlos Alberto**. I'm a Mechanical Engineer studying **Software Devlopment** at **Cubos Academy**.
 
 📩 ***E-mail:*** carlosalbertoel@outlook.com
 
