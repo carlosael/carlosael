@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Tudo bem? Me chamo **Carlos Alberto**. Sou formado em Engenharia Mecânica e recentemente comecei meus estudos de **Desenvolvimento de Softwares** na **Cubos Academy**.
+Tudo bem? Me chamo **Carlos Alberto**. Sou formado em Engenharia Mecânica e recentemente comecei meus estudos em **Desenvolvimento de Softwares** na **Cubos Academy**.
 
 📩 ***E-mail:*** carlosalbertoel@outlook.com
 
