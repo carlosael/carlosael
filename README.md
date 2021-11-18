@@ -4,7 +4,7 @@ My name is **Carlos Alberto**. I'm a Mechanical Engineer studying **Software Dev
 
 📩 ***E-mail:*** carlosalbertoel@outlook.com
 
-🌐 ***LinkedIn:*** https://www.linkedin.com/in/carlos-alberto-estevam-longuinhos-037582105/
+🌐 ***LinkedIn:*** https://www.linkedin.com/in/carlos-alberto-037582105/
 
 
 
