@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is **Carlos Alberto**. I'm a Mechanical Engineer studying **Software Development** at **Cubos Academy**.
+My name is **Carlos Alberto**. I'm a **Software Developer** trying to change people's lives through technology.
 
 📩 ***E-mail:*** carlosalbertoel@outlook.com
 
