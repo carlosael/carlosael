@@ -1,24 +1,17 @@
 ### Hi there! 👋
 
-My name is **Carlos Alberto**. I'm a **Software Developer** trying to change people's lives through technology.
+My name is **Carlos Alberto**. I'm a **Software Engineer** trying to change people's lives through technology.
 
 📩 ***E-mail:*** carlosalbertoel@outlook.com
 
 🌐 ***LinkedIn:*** https://www.linkedin.com/in/carlosael/
 
 
+**About me**
 
-<!--
-**carlosael/carlosael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Safra](https://www.safra.com.br/)
+- 🌱 I’m currently learning [Angular](https://angular.io/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosael&layout=compact)](https://github.com/carlosael/github-readme-stats)
