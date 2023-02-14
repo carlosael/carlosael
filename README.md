@@ -10,7 +10,7 @@ My name is **Carlos Alberto**. I'm a **Software Engineer** trying to change peop
 **About me**
 
 - 🔭 I’m currently working on [Safra](https://www.safra.com.br/)
-- 🌱 I’m currently learning [Angular](https://angular.io/)
+- 🌱 I’m currently learning [Angular](https://angular.io/) and [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 
 
 
